@@ -16,7 +16,7 @@ product-family:
     - title: "NetApp Console (local deployment)"
       icon: ./media/icon-backup.png
       url: ../console-local-family/index.html
-      summary: "NetApp Console (local deployment) gives teams intelligent fleet manageability in on-premises environments from one secure control plane. "
+      summary: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane. "
       tags: all
     
   

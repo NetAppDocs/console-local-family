@@ -1,5 +1,5 @@
 settings:
-  name: NetApp Console (local deployment) documentation
+  name: NetApp Console local deployment documentation
   search: console-local,  data-services-backup-recovery,  console-local-relnotes, console-local-automation
   internal:
     pdf_enabled: false
@@ -10,5 +10,11 @@ settings:
     lipi_enabled: false
 sidebar:
   entries:
-    - title: NetApp Console (local deployment) documentation
+    - title: NetApp Console local deployment documentation
       url: /index.html
+    - title: NetApp Backup and Recovery
+      url: https://docs.netapp.com/us-en/data-services-backup-recovery/index.html
+    - title: NetApp Console local deployment API documentation
+      url: https://docs.netapp.com/us-en/console-local-automation/index.html
+    - title: NetApp Console local deployment release notes
+      url: https://docs.netapp.com/us-en/console-local-relnotes/index.html
