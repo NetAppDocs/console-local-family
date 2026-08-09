@@ -1,5 +1,5 @@
 product-family:
-  title: NetApp Console local deployment documentation
+  title: NetApp Console local deployment 
   lead: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane. Browse documentation by feature or use search to find content."
   summary: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane."
   sidebarlinks:
@@ -16,19 +16,19 @@ product-family:
  
   tiles:
     - title: "NetApp Console local deployment"
-      url: ../console-local-family/index.html
+      url: ../console-local/index.html
       summary: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane. "
       tags: all, console-local
     - title: "NetApp Backup and Recovery"
-      url: https://docs.netapp.com/us-en/data-services-backup-recovery/index.html
+      url: ../data-services-backup-recovery/index.html
       summary: "Protect and recover your ONTAP resources."
       tags: all, data services
     - title: "NetApp Console local deployment API documentation"
-      url: https://docs.netapp.com/us-en/console-local-automation/index.html
+      url: ../console-local-automation/index.html
       summary: "Programmatically administer and manage your NetApp Console local deployment and storage resources using the NetApp Console local deployment API."
       tags: all, api
     - title: "NetApp Console local deployment release notes"
-      url: https://docs.netapp.com/us-en/console-local-relnotes/index.html
+      url: ../console-local-relnotes/index.html
       summary: "NetApp Console local deployment release notes provide information about new features, enhancements, and resolved issues in the latest releases."
       tags: all
     
