@@ -12,9 +12,4 @@ sidebar:
   entries:
     - title: NetApp Console local deployment documentation
       url: /index.html
-    - title: NetApp Backup and Recovery
-      url: https://docs.netapp.com/us-en/data-services-backup-recovery/index.html
-    - title: NetApp Console local deployment API documentation
-      url: https://docs.netapp.com/us-en/console-local-automation/index.html
-    - title: NetApp Console local deployment release notes
-      url: https://docs.netapp.com/us-en/console-local-relnotes/index.html
+

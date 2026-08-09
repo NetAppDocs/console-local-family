@@ -1,22 +1,35 @@
 product-family:
-  title: NetApp Console documentation
-  lead: "The NetApp Console provides centralized management of storage and data services across on-premises and cloud environments. It delivers unified control, operational simplicity, and secured management. Browse documentation by feature or use search to find content."
-  summary: "The NetApp Console provides centralized management of storage and data services across on-premises and cloud environments. It delivers unified control, operational simplicity, and secured management. Browse documentation by feature or use search to find content."
+  title: NetApp Console local deployment documentation
+  lead: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane.Browse documentation by feature or use search to find content."
+  summary: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane."
   sidebarlinks:
     - title: All
       tags: all
       class: active
+    - title: API
+      tags: api
+    - title: Console local deployment
+      tags: console-local
+    - title: Protection
+      tags: data services
+
  
   tiles:
-    - title: "NetApp Console (servuce)"
-      icon: ./media/icon-admin.png
-      url: ../console-family/index.html
-      summary: "The NetApp Console provides centralized management of storage and data services across on-premises and cloud environments. It delivers unified control, operational simplicity, and secured management."
-      tags: all
-    - title: "NetApp Console (local deployment)"
-      icon: ./media/icon-backup.png
+    - title: "NetApp Console local deployment"
       url: ../console-local-family/index.html
       summary: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane. "
+      tags: all, console-local
+    - title: "NetApp Backup and Recovery"
+      url: https://docs.netapp.com/us-en/data-services-backup-recovery/index.html
+      summary: "Protect and recover your ONTAP resources."
+      tags: all, data services
+    - title: "NetApp Console local deployment API documentation"
+      url: https://docs.netapp.com/us-en/console-local-automation/index.html
+      summary: "Programmatically administer and manage your NetApp Console local deployment and storage resources using the NetApp Console local deployment API."
+      tags: all, api
+    - title: "NetApp Console local deployment release notes"
+      url: https://docs.netapp.com/us-en/console-local-relnotes/index.html
+      summary: "NetApp Console local deployment release notes provide information about new features, enhancements, and resolved issues in the latest releases."
       tags: all
     
   
