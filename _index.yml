@@ -6,91 +6,19 @@ product-family:
     - title: All
       tags: all
       class: active
-    - title: API
-      tags: api
-    - title: Agents
-      tags: agents
-    - title: Administration
-      tags: console
-    - title: Governance
-      tags: governance
-    - title: Health
-      tags: health
-    - title: Mobility
-      tags: data services
-    - title: Protection
-      tags: data services
-    - title: Storage
-      tags: storage
-    - title: Workloads
-      tags: data services
+ 
   tiles:
-    - title: "NetApp Console Local administration"
+    - title: "NetApp Console (servuce)"
       icon: ./media/icon-admin.png
-      url: ../console-setup-admin/index.html
-      summary: "Learn how to start using the NetApp Console, including setting up access management and Console agents."
-      tags: all, console, agents
-    - title: "NetApp Data Services"
-      icon: ./media/icon-backup.png
-      url: ../data-services-family/index.html
-      summary: "Protect and secure your storage infrastructure."
-      tags: all,health, data services
-    - title: "Storage management"
-      icon: ./media/icon-onprem.png
-      url: ../storage-management-family/index.html
-      summary: "Centralized management for both on-premises and cloud storage."
-      tags: all,storage
-    - title: "Release notes"
-      icon: ./media/icon-docs.png
-      url: ../console-relnotes/index.html
-      summary: "Learn what's new across all of the NetApp Console platform and data services."
+      url: ../console-family/index.html
+      summary: "The NetApp Console provides centralized management of storage and data services across on-premises and cloud environments. It delivers unified control, operational simplicity, and secured management."
       tags: all
-    - title: "API"
-      icon: ./media/icon-api.png
-      url: https://docs.netapp.com/us-en/console-automation/index.html
-      summary: "Programmatically administer your cloud-based resources."
-      tags: all,api
-    - title: "Automation hub"
-      icon: ./media/icon-automation.png
-      url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
-      summary: "Use scripted solutions to automate the deployment and integration of NetApp products and services."
-      tags: all,governance
-    - title: "Data Infrastructure Insights"
-      icon: ./media/icon-compute.png
-      url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
-      tags: all,governance
-      summary: "Monitor, troubleshoot and optimize all your resources including your public clouds and your private data centers."
-    - title: "Digital advisor (Active IQ)"
-      icon: ./media/icon-activeiq.png
-      url: ../active-iq/index.html
-      tags: all,health
-      summary: "Actionable intelligence for optimal storage health."
-    - title: "Licenses and subscriptions"
-      icon: ./media/icon-digital-wallet.png
-      url: ../console-licenses-subscriptions/index.html
-      tags: all,console
-      summary: "Manage and monitor your licenses and subscriptions."
-    - title: "Lifecycle planning"
-      icon: ./media/icon-economic-efficiency.png
-      url: ../console-lifecycle-planning/index.html
-      summary: "Receive recommendations for systems nearing capacity limits and systems approaching the end of their service life."
-      tags: all,storage
-    - title: "Software updates"
-      icon: ./media/icon-software-updates.png
-      url: ../console-software-updates/index.html
-      summary: "Automate the assessment, planning, and execution of ONTAP upgrades."
-      tags: all,health, storage
-    - title: "Storage system alerts"
-      icon: ./media/icon-alerts.png
-      url: ../console-alerts/index.html
-      summary: "View and act on real-time system alerts for ONTAP on-premises systems."
-      tags: all,storage
-    - title: Sustainability
-      icon: ./media/icon-sustainability.png
-      url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
-      summary: "Monitor systems' environmental impact to achieve sustainability goals."
-      tags: all,health
-
+    - title: "NetApp Console (local deployment)"
+      icon: ./media/icon-backup.png
+      url: ../console-local-family/index.html
+      summary: "NetApp Console local deployment gives teams intelligent fleet manageability in on-premises environments from one secure control plane. "
+      tags: all
+    
   
   
  
