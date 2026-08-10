@@ -1,0 +1,12 @@
+Support registration is required to receive technical support specific to the NetApp Console local deployment and its storage solutions and data services.
+
+
+
+== Support registration overview
+
+There are two forms of registration to activate support entitlement:
+
+* Registering your NetApp Console account serial number (your 20 digit 960xxxxxxxxx serial number located on the Support Resources page in the Console).
++
+This serves as your single support subscription ID for any service within the Console. Each Console account must be registered.
+

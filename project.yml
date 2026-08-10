@@ -1,13 +1,15 @@
 settings:
-  name: "Product Name"
-  search: 
+  name: NetApp Console local deployment 
+  search: console-local,  data-services-backup-recovery,  console-local-relnotes, console-local-automation
   internal:
     pdf_enabled: false
+    lipi_enabled: true
   prod:
     pdf_enabled: false
-  # harmony_enabled: true
-
-sidebar: 
+    harmony_enabled: true
+    lipi_enabled: false
+sidebar:
   entries:
-  - title: #repeat title of family page
-    url: /index.html
+    - title: NetApp Console local deployment 
+      url: /index.html
+
