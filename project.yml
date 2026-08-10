@@ -1,5 +1,5 @@
 settings:
-  name: NetApp Console local deployment documentation
+  name: NetApp Console local deployment 
   search: console-local,  data-services-backup-recovery,  console-local-relnotes, console-local-automation
   internal:
     pdf_enabled: false

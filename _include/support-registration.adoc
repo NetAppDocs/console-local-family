@@ -1,4 +1,4 @@
-Support registration is required to receive technical support specific to the NetApp Console and its storage solutions and data services .
+Support registration is required to receive technical support specific to the NetApp Console local deployment and its storage solutions and data services.
 
 
 
