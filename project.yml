@@ -10,6 +10,6 @@ settings:
     lipi_enabled: false
 sidebar:
   entries:
-    - title: NetApp Console local deployment documentation
+    - title: NetApp Console local deployment 
       url: /index.html
 
